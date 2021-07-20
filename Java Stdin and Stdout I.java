@@ -1,6 +1,6 @@
 // Java Stdin and Stdout I
 
-// HackerRank Problem Solved using JAVA.
+// HackerRank Problem Solved using Java Language.
 
 import java.util.*;
 
